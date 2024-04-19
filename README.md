@@ -10,10 +10,10 @@
 <td style="color:rgb(150, 153, 0); background-color:black">Ранг</td>
 </tr> 
 <tr>
-<td style="color:rgb(150, 153, 0)">Ketsero</td>
-<td style="color:rgb(150, 153, 0)">Чоловік</td>
-<td style="color:rgb(150, 153, 0)">Некромант</td>
-<td style="color:rgb(150, 153, 0)"><b>SSS</b></td>
+<td style="color:rgb(150, 153, 0); background-color:black">Ketsero</td>
+<td style="color:rgb(150, 153, 0); background-color:black">Чоловік</td>
+<td style="color:rgb(150, 153, 0); background-color:black">Некромант</td>
+<td style="color:rgb(150, 153, 0); background-color:black"><b>SSS</b></td>
 </tr> 
 </table>
 </main> 
